@@ -1,0 +1,13 @@
+# Core LLM + LangChain
+langchain 
+langchain-core 
+langchain-community
+
+# Embeddings
+sentence-transformers
+
+# Vector Databases
+chromadb
+
+# LLM (Local)
+txtai
